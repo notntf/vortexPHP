@@ -65,27 +65,6 @@ hola
             <button class="bg-zinc-950 text-zinc-50 text-xl font-extrabold px-4 py-2 rounded hover:bg-zinc-900">SUSCRIBETE AHORA</button>
         </div>
     </section>
-
-    <!-- Planes Section -->
-    <section class="bg-black py-12 border-t border-gray-800">
-        <div class="flex flex-col items-center justify-center gap-4">
-            <h2>PLANES</h2>
-            <div class="flex items-center justify-center gap-4">
-                <div class="flex flex-col items-center justify-center bg-zinc-900 p-40">
-                    <h3 class="font-extrabold">BASICO</h3>
-                    <p>$5.99</p>
-                </div>
-                <div class="flex flex-col items-center justify-center bg-zinc-900 p-40">
-                    <h3 class="font-extrabold">Estandar</h3>
-                    <p>$8.99</p>
-                </div>
-                <div class="flex flex-col items-center justify-center bg-zinc-900 p-40">
-                    <h3 class="font-extrabold">PREMIUM</h3>
-                    <p>$11.99</p>
-                </div>
-            </div>          
-        </div>
-    </section>
     <!-- Categorias Section -->                  
     <section class="bg-black py-12 border-t border-gray-800">
         <div class="max-w-6xl mx-auto px-4 md:flex items-center flex-row-reverse">
